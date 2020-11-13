@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Senior Design Project`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Michael Gomez.`,
+      summary: `Embedded Systems Engineer.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A technical blog discussing the development of an automated gas pump.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `gmz_dev`,
     },
   },
   plugins: [
